@@ -1,0 +1,9 @@
+.cabec{
+    position: absolute;
+    width: 1440px;
+    height: 221px;
+    left: 0px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(121, 180, 250, 0.97) 0%, rgba(255, 255, 255, 0.97) 98.18%);
+}
